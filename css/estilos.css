@@ -1,0 +1,19 @@
+#textarea1{
+	width: 200px;
+}
+
+
+body{
+	font-family: verdana;
+	margin: 20px;
+}
+
+[name="email"]{
+	background: #eeeeee;
+}
+
+
+p, label{
+	font-family: tahoma;
+
+}
